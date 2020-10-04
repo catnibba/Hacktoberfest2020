@@ -1,6 +1,6 @@
-# Hacktoberfest2020---its a very good project and get a free tshirt.
+# Hacktoberfest2020
 
-Make your first Pull Request and earn a free tee from GitHub!
+Please do not send PRs to this repo. This is just an archive.
 
 ![Hacktoberfest 2020](osc_hacktoberfest2020.png)
 
